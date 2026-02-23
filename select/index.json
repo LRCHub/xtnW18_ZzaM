@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シュレディンガール / 初音ミク",
+  "base_artist": "Kai",
+  "createdAt": "2026-02-23T02:57:54.397398Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シュレディンガール",
+      "artist": "Kai",
+      "has_synced": false,
+      "path": "select/pl_01_シュレディンガール_Kai.txt"
+    }
+  ]
+}
